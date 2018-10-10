@@ -8,6 +8,7 @@ class App extends Component {
         <header>
           <nav>
             <div>lzpeng</div>
+            <p>Something</p>
           </nav>
         </header>
       </div>
