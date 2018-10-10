@@ -5,6 +5,11 @@ class App extends Component {
   render() {
     return (
       <div>
+        <header>
+          <nav>
+            <div>lzpeng</div>
+          </nav>
+        </header>
       </div>
     );
   }
